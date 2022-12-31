@@ -421,8 +421,8 @@
             arrows: false, /* slider arrow  */
             appendDots: '.ltn__slider-11-pagination-count',
             infinite: true,
-            autoplay: false,
-            autoplaySpeed: 10000,
+            autoplay: true,
+            autoplaySpeed: 5300,
             speed: 500,
             asNavFor: '.ltn__slider-11-img-slide-arrow-active',
             slidesToShow: 1,
